@@ -1,0 +1,5 @@
+// To run a file
+go run HelloWorld.go
+
+// To format
+gofmt -w HelloWorld.go
